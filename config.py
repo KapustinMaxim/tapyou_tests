@@ -1,0 +1,1 @@
+API_URL = "https://hr-challenge.dev.tapyou.com//api//test//"

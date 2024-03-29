@@ -1,0 +1,5 @@
+pytest
+pytest_check
+jsonschema
+requests
+
