@@ -163,7 +163,7 @@ class TestNegativeGenders:
         assert response.status_code == 500
 
 
-idList = [("5"), ("10"), ("15"), ("2")]
+idList = [("5"), ("10"), ("15"), ("2"), ("10000")]
 
 
 @pytest.mark.parametrize("userid", idList)
